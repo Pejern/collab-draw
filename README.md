@@ -6,6 +6,13 @@
 This is a minimalist starter project for locally deploying Excalidraw based on Next.js, YJS, and Socket.IO. Through YJS, it enables real-time collaboration and data storage. The system uses MinIO client for resource file storage and MongoDB for data persistence.
 
 
+### Leave a star 🌟
+
+<img src="./public/images/Collab-Draw.png" alt="Desktop Light Mode" width="100%"/>
+
+<img src="./public/images/Collab-Draw-Dark.png" alt="Desktop Dark Mode" width="100%"/>
+
+---
 
 ### Project Structure
 
