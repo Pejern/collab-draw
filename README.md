@@ -1,4 +1,4 @@
-# Excalidraw YJS Starter
+# Collab-Draw
 
 
 ### Introduction
