@@ -10,8 +10,6 @@ This is a minimalist starter project for locally deploying Excalidraw based on N
 
 <img src="./public/images/Collab-Draw.png" alt="Desktop Light Mode" width="100%"/>
 
-<img src="./public/images/Collab-Draw-Dark.png" alt="Desktop Dark Mode" width="100%"/>
-
 ---
 
 ### Project Structure
